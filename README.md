@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sroka36</h1>
+## Hi 👋, I'm Sroka36
+
 - 🔭 I’m currently working on [cangjie-learning](https://github.com/sroka36/cangjie_learning)
 - ⛩️ I’m currently preparing for **studying abroad in Japan**.
 - 🌌 I have a deep interest in **Astronomy**, **Linguistics**, and **History**.

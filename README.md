@@ -16,6 +16,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sroka36&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sroka36&theme=dark&hide_border=false&t=3)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sroka36&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=pie&t=3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sroka36&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&t=3)
 
 ---

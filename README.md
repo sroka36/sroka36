@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Sroka36
 
-- 🔭 I’m currently working on [cangjie-learning](https://github.com/sroka36/cangjie_learning)
+- 🔭 I’m currently working on [electron-dietario](https://github.com/sroka36/electron_dietario)
 - ⛩️ I’m currently preparing for **studying abroad in Japan**.
 - 🌌 I have a deep interest in **Astronomy**, **Linguistics**, and **History**.
 - 💻 I love **Coding** and building new things.
